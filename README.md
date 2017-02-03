@@ -1,0 +1,3 @@
+使用AFNetworking请求网络
+如图2所示，使用SwiftyJson解析服务器f返回的数据
+如图3所示，使用Kingfisherjia加载显示网络图片
